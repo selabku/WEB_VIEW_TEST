@@ -51,6 +51,6 @@ public class MainActivity extends AppCompatActivity {
         mWebview.setVerticalScrollbarOverlay(true);
         mWebview.setHorizontalScrollbarOverlay(true);
 
-        mWebview.loadUrl("http://m.wordbook.naver.com/endic/today/conversation.nhn");
+        mWebview.loadUrl("http://m.baidu.com");
     }
 }
