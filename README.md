@@ -1,2 +1,0 @@
-# WEB_VIEW_TEST
-test
